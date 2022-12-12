@@ -1,0 +1,11 @@
+ex1@AB1210SCOPE70:~$ cd Desktop
+ex1@AB1210SCOPE70:~/Desktop$ cd CD
+bash: cd: CD: No such file or directory
+ex1@AB1210SCOPE70:~/Desktop$ cd heeh
+ex1@AB1210SCOPE70:~/Desktop/heeh$ gcc PrintHello.c -o hww
+ex1@AB1210SCOPE70:~/Desktop/heeh$ ./hww
+Hello World 
+ ex1@AB1210SCOPE70:~/Desktop/heeh$ ls
+hww  PrintHello.c
+ex1@AB1210SCOPE70:~/Desktop/heeh$ ^C
+ex1@AB1210SCOPE70:~/Desktop/heeh
